@@ -1,9 +1,22 @@
-# מדיניות פרטיות
+# Privacy Policy
 
-האפליקציה מיועדת לשימוש אישי ופועלת באופן מקומי במחשב.
+## Overview
+This application is a personal desktop application designed for local use.
 
-האפליקציה מבקשת הרשאת גישה ל-Google Drive לצורך גיבוי ושחזור נתונים.
+## Data Collection and Storage
+Application data is stored locally on the user's computer.
 
-הנתונים נשמרים במחשב המקומי ובחשבון Google Drive של המשתמש, בהתאם לפעולות הגיבוי והשחזור.
+## Google Drive Integration
+The application uses Google Drive to back up and restore application data.
 
-האפליקציה אינה מוכרת מידע אישי ואינה מעבירה מידע לשירותים נוספים.
+Google Drive access is used solely for these purposes.
+
+## Data Sharing
+The application does not sell user data or share it with third parties.
+
+## User Control
+Users can revoke the application's Google Drive access through their Google Account settings.
+
+## Contact
+For privacy-related questions, contact:
+your-email@example.com
